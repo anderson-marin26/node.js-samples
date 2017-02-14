@@ -1,0 +1,22 @@
+{
+  "name": "code_house",
+  "version": "1.0.0",
+  "description": "Code house page",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anderson-marin26/node.js-samples.git"
+  },
+  "author": "Anderson Marin de Ramos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anderson-marin26/node.js-samples/issues"
+  },
+  "homepage": "https://github.com/anderson-marin26/node.js-samples#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
